@@ -1,9 +1,6 @@
-## Hi there, I'm Maria 👋
-
-I am a Computer Science student at the University of Windsor, specializing in Software Engineering. 
-My passion for problem-solving and logic drives my interest in coding. My projects reflect my learning 
-path in software development and my eagerness to grow. I am interested in full-stack development, bioinformatics, 
-and learning! Keep an eye out for new ideas and projects.👷‍♀️
+> *Нет такого слова «не хочу» — есть такое слово «надо»*
+> *Нема такве речи „нећу" — има такве речи „треба"*
+> *There is no such word as "I don't want to" — there is only "must"*
 <!--
 **mashencia/mashencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
